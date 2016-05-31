@@ -1,0 +1,7 @@
+{
+    "name": "Heroku databasedotcom-api-demo",
+    "description": "Heroku databasedotcom-api-demo",
+    "repository": "https://github.com/heroku/databasedotcom-api-demo", 
+    "logo": "",
+    "keywords": ["heroku", "salesforce", "databasedotcom-api-demo"]
+}
