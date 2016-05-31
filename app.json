@@ -1,7 +1,7 @@
 {
-    "name": "Heroku databasedotcom-api-demo",
+    "name": "heroku-databasedotcom-api-demo",
     "description": "Heroku databasedotcom-api-demo",
     "repository": "https://github.com/heroku/databasedotcom-api-demo", 
-    "logo": "",
-    "keywords": ["heroku", "salesforce", "databasedotcom-api-demo"]
+    "logo": "https://node-js-sample.herokuapp.com/node.svg",
+    "keywords": ["heroku", "salesforce", "heroku-databasedotcom-api-demo"]
 }
